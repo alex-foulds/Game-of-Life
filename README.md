@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Implementation of John Conway's Game of Life. A grid-based generational python solution.
+Implementation of John Conway's Game of Life. A grid-based generational python flask solution.
 
 ### Rules
 
